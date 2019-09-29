@@ -1,0 +1,4 @@
+# Hand-written-digit-recognition
+
+Handwritten recognition (HWR) is the ability of a computer to receive and interpret intelligible handwritten input from source such as paper documents, photographs, touchscreens and other devices. Handwritten character recognition is one of the practically important issues in pattern recognition applications. The applications of digit recognition includes in postal mail sorting, bank check processing, form data entry, etc. The heart of the problem lies within the ability to develop an efficient algorithm that can recognize handwritten digits and which is submitted by users by the way of scanner, tablet and other digital devices. This project presents an approach to off-line digit recognition based on a simple yet famous machine learning algorithm known as k-Nearest Neighbor commonly known as KNN.
+
